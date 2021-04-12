@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.98415f7d.chunk.js",
-    "main.js.map": "/static/js/main.98415f7d.chunk.js.map",
+    "main.js": "/static/js/main.6bf1e14c.chunk.js",
+    "main.js.map": "/static/js/main.6bf1e14c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d6b2256.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d6b2256.js.map",
-    "static/js/2.f6dba43b.chunk.js": "/static/js/2.f6dba43b.chunk.js",
-    "static/js/2.f6dba43b.chunk.js.map": "/static/js/2.f6dba43b.chunk.js.map",
+    "static/js/2.39f4df38.chunk.js": "/static/js/2.39f4df38.chunk.js",
+    "static/js/2.39f4df38.chunk.js.map": "/static/js/2.39f4df38.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.f6dba43b.chunk.js.LICENSE.txt": "/static/js/2.f6dba43b.chunk.js.LICENSE.txt",
+    "static/js/2.39f4df38.chunk.js.LICENSE.txt": "/static/js/2.39f4df38.chunk.js.LICENSE.txt",
     "static/media/cakes.3a792c15.png": "/static/media/cakes.3a792c15.png",
     "static/media/cart.30ac4fdb.png": "/static/media/cart.30ac4fdb.png",
     "static/media/img-1.e1733cd8.png": "/static/media/img-1.e1733cd8.png",
@@ -26,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0d6b2256.js",
-    "static/js/2.f6dba43b.chunk.js",
-    "static/js/main.98415f7d.chunk.js"
+    "static/js/2.39f4df38.chunk.js",
+    "static/js/main.6bf1e14c.chunk.js"
   ]
 }
